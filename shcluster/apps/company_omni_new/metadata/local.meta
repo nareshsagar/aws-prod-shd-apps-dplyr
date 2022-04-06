@@ -1,0 +1,12 @@
+
+        [app/ui]
+        version = 6.5.2
+        modtime = 1492571386.044527000
+        [app/launcher]
+        version = 6.5.2
+        modtime = 1492571386.045769000
+        []
+        access read : [ admin,ogs admin, all_index_read, super_poweruser, omni_new_user, omni_new_power), write :
+        admin, ogs_admin, omni_new_power]
+        export =none
+        
