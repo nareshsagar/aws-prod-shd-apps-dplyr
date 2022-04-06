@@ -1,0 +1,34 @@
+<dashboard>
+        <label>Welcome</label>
+        <row>
+        <panel>
+        <html>
+        <h1>
+        <img src="/static/app/company welcome/green splunk_logo.png" height="50px" width-"50px"/> Learn</h1>
+        </html>
+        </panel>
+        <panel>
+        <html>
+        <h1>
+        <img src="/static/app/company welcome/green_splunk_logo.png" height="50px" width="50px"/> Get Help</hi
+        </html>
+        </panel>
+        <panel>
+        <html>
+        <h1>
+        <img src="/static/app/company_welcome/green splunk_logo.png" height="50px" width="50px"/> Go!</h1>
+        </html>
+        </panel>
+        </row>
+        <row>
+        <panel ref="learning_splunk" app="company_welcome"></panel>
+        <panel ref="splunk_community" app="company_welcome"></panel>
+        <panel ref="waiting_on_your_splunk_admins" app="company welcome"></panel>
+        </row>
+        <row>
+        <panel ref="splunk_videos" app "company welcome"></panel>
+        <panel ref-"internal community" app="company welcome"></panel
+        <panel ref-"start" app="company welcome"></panel>
+        </row>
+        </dashboard>
+        
