@@ -4,7 +4,7 @@
 < view name = "datasets" / >
 < view name = "reports" / >
 < view name = "alerts" / >
-< view name = "atsiboards" / >
+< view name = "dashboards" / >
 < collection label = "Azure" >
 < view name = "azure health metrics" / >
 < view name = "azure_iac dashboard activity logs" / >
