@@ -1,0 +1,11 @@
+
+[app/ui]
+version = 6.5.2
+modtime = 1492571386.044527000
+[app/launcher]
+version = 6.5.2
+modtime = 1492571386.045769000
+[]
+access read : [ admin,ogs admin, all_index_read, super_poweruser, cba_capgemini_user, cba_capgemini_power), write :
+admin, ogs_admin, cba_capgemini_power]
+export =none
